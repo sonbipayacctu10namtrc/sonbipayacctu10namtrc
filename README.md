@@ -5,12 +5,12 @@
   <img src="https://komarev.com/ghpvc/?username=sonha959&label=Profile%20views&color=0e75b6&style=flat" alt="sonha959" />
 </p>
 
-- 🔭 I'm currently working on **CuraMinder — ứng dụng AI hỗ trợ chăm sóc sức khỏe bằng Computer Vision**
+- 🔭 I'm currently working on **CuraMinder — ứng dụng AI nhắc nhở bệnh nhân uống thuốc linh hoạt thông qua AI**
 - 🌱 I'm currently learning **AI Applications & Computer Vision**
 - 👯 I'm looking to collaborate on **AI applications, Computer Vision projects**
-- 💬 Ask me about **AI Applications, Computer Vision, CuraMinder**
-- 📫 How to reach me: **[email của bạn]**
-- ⚡ Fun fact: **[Một câu thú vị về bạn]**
+- 💬 Ask me about **AI Applications, Computer Vision**
+- 📫 How to reach me: **hxs99005@gmail.com**
+- ⚡ Fun fact: **My Love <3**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
