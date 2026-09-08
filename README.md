@@ -36,6 +36,12 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonha959&show_icons=true&locale=en&layout=compact&theme=radical" alt="sonha959" width="48%" />
 </p>
 
+<h3 align="left">📊 Metrics:</h3>
+<p align="center">
+  <img align="center" src="https://metrics.lecoq.io/sonbipayacctu10namtrc" alt="sonbipayacctu10namtrc" />
+</p>
+<!-- Ảnh trên do metrics.lecoq.io render tự động, cache 1 tiếng. Muốn đổi plugin/màu sắc, vào https://metrics.lecoq.io để tùy chỉnh rồi copy link ảnh mới vào đây. -->
+
 <h3 align="left">🚀 Featured Projects</h3>
 
 | Project | Mô tả | Tech Stack | Link |
